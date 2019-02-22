@@ -7,5 +7,4 @@ public class Compiler {
       lex l = new lex();
       l.cargar("lenguaje.txt");
     }
-    
 }

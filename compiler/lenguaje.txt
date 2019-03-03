@@ -1,6 +1,6 @@
-#compilador
+#mi compilador
 main(){
-int numero1=5:
+int numero0=559.5:
 int numero2=6:
 
 cad titulo= 'COMPILADOR':
